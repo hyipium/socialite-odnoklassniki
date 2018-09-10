@@ -1,6 +1,6 @@
 <?php
 
-namespace JhaoDa\SocialiteProviders\Odnoklassniki;
+namespace Hyipium\SocialiteProviders\Odnoklassniki;
 
 use Illuminate\Support\Arr;
 use Laravel\Socialite\Two\ProviderInterface;

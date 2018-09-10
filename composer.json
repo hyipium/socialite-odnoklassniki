@@ -1,10 +1,10 @@
 {
-    "name": "jhaoda/socialite-odnoklassniki",
-    "description": "Odnoklassniki OAuth2 Provider for Laravel Socialite",
+    "name": "hyipium/socialite-odnoklassniki",
+    "description": "Odnoklassniki Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
-        "name": "JhaoDa",
-        "email": "jhaoda@gmail.com"
+        "name": "Hyipium",
+        "email": "hyipium@gmail.com"
     }],
     "require": {
         "php": "^5.6 || ^7.0",
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "JhaoDa\\SocialiteProviders\\Odnoklassniki\\": "src/"
+            "Hyipium\\SocialiteProviders\\Odnoklassniki\\": "src/"
         }
     }
 }
